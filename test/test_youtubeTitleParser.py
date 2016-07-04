@@ -1,5 +1,5 @@
 from unittest import TestCase
-from parser.core import YoutubeTitleParser
+from youtube_title_parser.core import YoutubeTitleParser
 
 
 class TestYoutubeTitleParser(TestCase):

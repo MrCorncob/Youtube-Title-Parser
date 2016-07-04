@@ -7,5 +7,5 @@ setup(name='youtube-title-parser',
       author='Corncob',
       author_email='daiyen@daiyen.info',
       license='GPL 3.0',
-      packages=['youtube-title-parser'],
+      packages=['youtube_title_parser'],
       zip_safe=False)
