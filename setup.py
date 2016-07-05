@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='youtube-title-parser',
-      version='0.1',
+      version='0.1.1',
       description='Parse Youtube Title into Artist name and Song name',
       url='https://github.com/MrCorncob/Youtube-Title-Parser.git',
       author='Corncob',
