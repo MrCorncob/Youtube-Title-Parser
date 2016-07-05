@@ -66,7 +66,7 @@ class YoutubeTitleParser(object):
         parts = None
         for separator in self.separators:
             if separator in title:
-                parts = title.split('{}'.format(separator))
+                parts = title.split('{}'.format(separator), 1)
                 break
 
         if parts:
